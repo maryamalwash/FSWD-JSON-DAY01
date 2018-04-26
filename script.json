@@ -1,0 +1,9 @@
+{	 var JSONSandwichess: { 
+		"sandwich": "hamburger", 
+        "calories": 260 }, 
+	
+     friess : { 
+		"fries_size": "Large French Fries",
+         "calories": 570 }
+}
+
